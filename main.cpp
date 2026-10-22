@@ -7,5 +7,5 @@ void greetWhite() {
 }
 
 int main() {
-    cout << "Hello world!" << endl;
+    cout << "Hello everyone" << endl;
 }
